@@ -1,0 +1,360 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+    color:black;
+}
+.calculetar{
+       text-align: center;
+       
+}
+input[name="text"]{
+               height: 80px;  
+               width:250px;  
+               border: 3px solid black;
+               text-align: right;
+               font-size: 35px;
+               padding: 0 5px;
+               letter-spacing: 2px;
+               
+}
+.math{
+    border:1px solid black;
+    height: 365px;
+    width:249px;
+    margin: 0 auto;
+    
+    
+  
+    
+}
+.fast{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+    
+    
+}
+  
+.fast b{
+    position: relative;
+    top:30px;
+
+}  
+.fast:hover{
+    background-color:tomato;
+    color:green;
+}
+.secound{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+
+}
+.secound b{
+    position: relative;
+    top:30px;
+
+} 
+.secound:hover{
+    background-color:gray;
+    color:white;
+}
+.theerd{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    display: block;
+    float: left;
+
+}
+.theerd b{
+    position: relative;
+    top:30px;
+
+} 
+.theerd:hover{
+    background-color:aquamarine;
+    color:salmon;
+}
+/*.divied{
+    height: 70px;
+    width: 35px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+   display: flex;
+  
+}
+.divied b{
+    position: relative;
+    top:30px;
+
+} 
+.divied:hover{
+    background-color: sienna;
+    color:silver;
+    
+}*/
+.four{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+
+}
+.four b{
+    position: relative;
+    top:30px;
+
+} 
+.four:hover{
+    background-color: skyblue;
+
+}
+.five{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+   
+  
+
+}
+.five b{
+    position: relative;
+    top:30px;
+
+} 
+.five:hover{
+    background-color: darkcyan;
+    
+}
+
+.six{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+   
+  
+
+}
+.six b{
+    position: relative;
+    top:30px;
+
+} 
+.six:hover{
+    background-color: forestgreen;
+    
+}
+.seven{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+
+
+}
+.seven b{
+    position: relative;
+    top:30px;
+
+} 
+.seven:hover{
+    background-color: springgreen;
+    
+}
+.eight{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+   
+  
+
+}
+.eight b{
+    position: relative;
+    top:30px;
+
+} 
+.eight:hover{
+    background-color: firebrick;
+    
+}
+.nine{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+   
+  
+
+}
+.nine b{
+    position: relative;
+    top:30px;
+
+} 
+.nine:hover{
+    background-color: gainsboro;
+    
+}
+.zoro{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+   
+  
+
+}
+.zoro b{
+    position: relative;
+    top:30px;
+
+} 
+.zoro:hover{
+    background-color: lightsalmon;
+    
+}
+.plus{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+   
+  
+
+}
+.plus b{
+    position: relative;
+    top:30px;
+
+} 
+.plus:hover{
+    background-color: tan;
+    
+}
+.mainus{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+   
+
+}
+.mainus b{
+    position: relative;
+    top:30px;
+
+} 
+.mainus:hover{
+    background-color: hotpink;
+    
+}
+.divied{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+   
+
+}
+.divied b{
+    position: relative;
+    top:30px;
+
+} 
+.divied:hover{
+    background-color: yellowgreen;
+    
+}
+.into{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+   
+
+}
+.into b{
+    position: relative;
+    top:30px;
+
+} 
+.into:hover{
+    background-color: rosybrown;
+    
+}
+.equal{
+    height: 70px;
+    width: 80px;
+    background: cornflowerblue;
+    margin: 1px;
+    text-align: center;
+    color:white;
+    float: left;
+   
+
+}
+.equal b{
+    position: relative;
+    top:30px;
+
+} 
+.equal:hover{
+    background-color: indianred;
+    
+}
